@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarunya!
 
-<!--
-**Sarunyamk/Sarunyamk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. Here's a quick summary of what I do:
 
-Here are some ideas to get you started:
+- 🔭 Currently working on **Friend Pow Project**
+- 🌱 Learning **Next.js** and advanced state management tools like **Zustand**
+- 💬 Ask me about **React**, **Node.js**, or **TailwindCSS**
+- 📫 How to reach me: [sarunya@example.com](mailto:sarunya@example.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Popular Repositories
+- [Friend Pow Client](https://github.com/Sarunyamk/Friend_Pow_Client)
+- [Friend Pow Server](https://github.com/Sarunyamk/Friend_Pow_Server)
+- [My Portfolio](https://github.com/Sarunyamk/My-Portfolio)
+
+## 🌟 Contributions
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Sarunyamk)
