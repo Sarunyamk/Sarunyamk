@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I’m a passionate **Full Stack Developer**🎉
 - 🌱 Learning **Next.js** 
 - 💬 Ask me about **React**,**Javascript**, **Node.js**, or **TailwindCSS,Bootstrap**
 - 📫 How to reach me: [sarunya46mk@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sarunya46mk@gmail.com)
-- 
+  
 ## 🚀 Skills & Technologies
 
 💻 **Languages**  
@@ -29,7 +29,9 @@ Welcome to my GitHub profile. I’m a passionate **Full Stack Developer**🎉
 
 ## 🌟 Contributions
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Sarunyamk)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarunyamk&layout=compact&theme=radical)  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarunyamk&show_icons=true&theme=radical)  
 
 ## 🔗 Quick Links
