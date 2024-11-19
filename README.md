@@ -23,16 +23,9 @@ Welcome to my GitHub profile. I’m a passionate **Full Stack Developer**🎉
 
 | Project Name                    | Description                                                                                  | Link                                   |
 |---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|
-| 🛍️ **E-commerce Platform**       | A fully functional e-commerce app with cart & payment system using **React** & **Node.js**.  | [Repository](https://github.com/Sarunyamk/E-commerce) |
-| 🎮 **Game Dashboard**            | Interactive gaming dashboard built with **React** & **Firebase**.                            | [Repository](https://github.com/Sarunyamk/Game-Dashboard) |
-| 🖥️ **Portfolio Website**          | My personal portfolio showcasing skills & projects using **React** & **TailwindCSS**.       | [Repository](https://github.com/Sarunyamk/Portfolio)  |
-
-## 🚀 Popular Repositories
-- [Friend Paws Client](https://github.com/Sarunyamk/Friend_Pow_Client)
-- [Friend Paws Server](https://github.com/Sarunyamk/Friend_Pow_Server)
-- [M&M Restaurant Server](https://github.com/Sarunyamk/)
-- [M&M Restaurant Client](https://github.com/Sarunyamk/)
-- [My Portfolio](https://github.com/Sarunyamk/My-Portfolio)
+| 🛍️ **Single Project**       | A fully functional e-commerce food delivery app with cart & payment system using **React** & **Node.js**.  | [Repository Frontend](https://github.com/Sarunyamk) ,[Repository Server](https://github.com/Sarunyamk)|
+| 🛍️ **Group Project**             |  A fully functional with  **React** & **Node.js**.                            | [Repository Frontend](https://github.com/Sarunyamk/Friend_Pow_Client) , [Repository Server](https://github.com/Sarunyamk/Friend_Pow_Server)|
+| 🖥️ **Portfolio Website**          | My personal portfolio showcasing skills & projects .       | [Repository](https://github.com/Sarunyamk/My-Portfolio)  |
 
 ## 🌟 Contributions
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Sarunyamk)
@@ -41,4 +34,4 @@ Welcome to my GitHub profile. I’m a passionate **Full Stack Developer**🎉
 
 ## 🔗 Quick Links
 - [🌟 My Portfolio](https://sarunyamk-portfolio.com)
-- [📁 Download My Resume](https://res.cloudinary.com/mnksarunya/image/upload/v1731987143/dwr9pdaeufsphgmqydby.pdf)
+- [📁 Download My Resume](https://res.cloudinary.com/mnksarunya/image/upload/w_400/v1731987143/dwr9pdaeufsphgmqydby.png)
