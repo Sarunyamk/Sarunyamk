@@ -34,6 +34,7 @@ Welcome to my GitHub profile. I’m a passionate **Full Stack Developer**🎉
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarunyamk&show_icons=true&theme=tokyonight)  
 
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SarunyaMnk)]
 ## 🔗 Quick Links
 - [🌟 My Portfolio](https://sarunyamk-portfolio.com)
 - [📁 Download My Resume](https://res.cloudinary.com/mnksarunya/image/upload/w_400/v1731987143/dwr9pdaeufsphgmqydby.png)
