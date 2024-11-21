@@ -36,7 +36,7 @@ Welcome to my GitHub profile. I’m a passionate **Full Stack Developer**🎉
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarunyamk&layout=donut-vertical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarunyamk&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarunyamk&show_icons=true&theme=Shows Github logo instead rank level)  
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SarunyaMnk)](https://wakatime.com/@SarunyaMnk)
 
