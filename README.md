@@ -33,9 +33,9 @@ Welcome to my GitHub profile. I’m a passionate **Full Stack Developer**🎉
 ## 🌟 Contributions
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Sarunyamk)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarunyamk&layout=donut-Gradient)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarunyamk&layout=donut-vertical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarunyamk&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarunyamk&show_icons=true&theme=Gradient)  
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SarunyaMnk)](https://wakatime.com/@SarunyaMnk)
 
