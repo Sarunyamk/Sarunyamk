@@ -28,7 +28,7 @@ Welcome to my GitHub profile. I’m a passionate **Full Stack Developer**🎉
 | Project Name                    | Description                                                                                  | Link                                   |
 |---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|
 | 🛍️ **Single Project**       | A fully functional e-commerce food delivery app with cart & payment system using **React** & **Node.js**.  | [Repository Client](https://github.com/Sarunyamk/Single_Project_restaurant-client) ,[Repository Server](https://github.com/Sarunyamk/Single_Project_restaurant-server)|
-| 🛍️ **Group Project**             |  A fully functional with  **React** & **Node.js**.                            | [Repository Client](https://github.com/Sarunyamk/Friend_Pow_Client) , [Repository Server](https://github.com/Sarunyamk/Friend_Pow_Server)|
+| 🛍️ **Group Project**             |  A fully functional for cats and dogs adoption platform with  **React** & **Node.js**.                            | [Repository Client](https://github.com/Sarunyamk/Friend_Pow_Client) , [Repository Server](https://github.com/Sarunyamk/Friend_Pow_Server)|
 | 🖥️ **Portfolio Website**          | My personal portfolio showcasing skills & projects .       | [Repository Client](https://github.com/Sarunyamk/My_Portfolio_client)  , [Repository Server](https://github.com/Sarunyamk/My_Portfolio_server)  |
 
 ## 🌟 Contributions
@@ -36,7 +36,7 @@ Welcome to my GitHub profile. I’m a passionate **Full Stack Developer**🎉
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarunyamk&layout=donut-vertical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarunyamk&show_icons=true&theme=Shows Github logo instead rank level)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarunyamk&show_icons=true&theme=tokyonight)  
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SarunyaMnk)](https://wakatime.com/@SarunyaMnk)
 
