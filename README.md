@@ -73,4 +73,4 @@ Welcome to my GitHub profile. I’m a passionate **Full Stack Developer**🎉
 
 ## 🔗 Quick Links
 - [🌟 My Portfolio](https://sarunyamk-portfolio.com)
-- [📁 Download My Resume](https://res.cloudinary.com/mnksarunya/image/upload/v1732206917/kibfeuuo5yosr2xehidn.pdf)
+- [📁 Download My Resume](https://res.cloudinary.com/mnksarunya/raw/upload/v1732206917/kibfeuuo5yosr2xehidn.pdf)
