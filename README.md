@@ -14,6 +14,9 @@ Welcome to my GitHub profile. I’m a passionate **Full Stack Developer**🎉
 🛠️ **Frameworks & Libraries**  
 `React` `Express` `Node.js` `TailwindCSS` `Bootstrap`
 
+**Database**
+`Prisma` `MongoDB`
+
 📦 **Tools**  
 `Git` `Postman` `VSCode`
 
