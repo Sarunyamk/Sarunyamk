@@ -76,5 +76,5 @@ Welcome to my GitHub profile. I’m a passionate **Full Stack Developer**🎉
 
 
 ## 🔗 Quick Links
-- [🌟 My Portfolio](https://my-portfolio-client-gadv.onrender.com)
+- [🖥️  See my portfolio ](https://my-portfolio-client-gadv.onrender.com)
 - [📁 Download My Resume](https://res.cloudinary.com/mnksarunya/image/upload/w_400/v1732261941/cjbwqyzttqb0d1wuvtfb.pngg)
