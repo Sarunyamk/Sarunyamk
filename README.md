@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I’m a passionate **Full Stack Developer**🎉
 
 - 🌱 Learning **Next.js** 
 - 💬 Ask me about **React**,**Javascript**, **Node.js**, or **TailwindCSS,Bootstrap**
-- 📫 How to reach me: [sarunya46mk@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sarunya46mk@gmail.com)
+- ✉️  You can contact me at [sarunya46mk@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sarunya46mk@gmail.com)
   
 ## 🚀 Skills & Technologies
 
