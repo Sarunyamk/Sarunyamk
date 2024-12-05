@@ -10,13 +10,13 @@ Welcome to my GitHub profile. I’m a passionate **Full Stack Developer**🎉
 ## 🚀 Skills & Technologies
 
 💻 **Languages**  
-`JavaScript` `HTML` `CSS` `SQL`
+`JavaScript` `Typescript` `HTML` `CSS` `SQL`
 
 🛠️ **Frameworks & Libraries**  
-`React` `Express` `Node.js` `TailwindCSS` `Bootstrap`
+`React.js` Next.js `Express.js` `@supabase/supabase-js` `Node.js` `TailwindCSS` `Bootstrap`
 
 **Database**
-`Prisma` `MongoDB`
+`Prisma` `MongoDB` `PostgreSQL`
 
 📦 **Tools**  
 `Git` `Postman` `VSCode`
@@ -53,6 +53,12 @@ Welcome to my GitHub profile. I’m a passionate **Full Stack Developer**🎉
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+</a> 
 
 
 ---
