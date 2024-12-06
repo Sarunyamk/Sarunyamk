@@ -13,7 +13,7 @@ Welcome to my GitHub profile. I’m a passionate **Full Stack Developer**🎉
 `JavaScript` `Typescript` `HTML` `CSS` `SQL`
 
 🛠️ **Frameworks & Libraries**  
-`React.js` Next.js `Express.js` `@supabase/supabase-js` `Node.js` `TailwindCSS` `Bootstrap`
+`React.js` `Next.js` `Express.js` `@supabase/supabase-js` `Node.js` `TailwindCSS` `Bootstrap`
 
 **Database**
 `Prisma` `MongoDB` `PostgreSQL`
