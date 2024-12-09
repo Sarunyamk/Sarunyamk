@@ -60,7 +60,9 @@ Welcome to my GitHub profile. I’m a passionate **Full Stack Developer**🎉
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
 </a> 
 |---------------------|
-| <img src="..." width="40" height="40" alt="mysql"> |
+| <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+</a> |
 
 
 ---
