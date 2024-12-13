@@ -13,13 +13,13 @@ Welcome to my GitHub profile. I’m a passionate **Full Stack Developer**🎉
 `JavaScript` `Typescript` `HTML` `CSS` `SQL`
 
 🛠️ **Frameworks & Libraries**  
-`React.js` `Next.js` `Express.js` `Node.js` `TailwindCSS` `Bootstrap`
+`React.js` `Vue.js` `Next.js` `Express.js` `Node.js` `TailwindCSS` `Bootstrap`
 
 **Database**
 `Prisma` `MongoDB` `PostgreSQL`
 
 📦 **Tools**  
-`Git` `Postman` `VSCode`
+`Git` `Postman` `VSCode` `Figma`
 
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
