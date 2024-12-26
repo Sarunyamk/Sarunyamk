@@ -20,7 +20,7 @@ Welcome to my GitHub profile. I’m a passionate **Frontend Developer** And **Fu
 `React.js` `Vue.js` `Next.js` `Express.js` `Node.js` `TailwindCSS` `Bootstrap`
 
 **Database**
-`Prisma` `MongoDB` `PostgreSQL`
+`MySQL` `SQLite `Prisma` `MongoDB` `PostgreSQL`
 
 📦 **Tools**  
 `Git` `Postman` `VSCode` `Figma`
