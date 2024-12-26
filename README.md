@@ -1,11 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarunya
 ===============================================================================================================================
 
-Welcome to my GitHub profile. I’m a passionate **Full Stack Developer**🎉
+Welcome to my GitHub profile. I’m a passionate **Frontend Developer** And **Full Stack Developer**🎉
 
 - 🌱 Learning **Next.js** **Typescript** 
 - 💬 Ask me about **React**,**Javascript**, **Node.js**, or **TailwindCSS,Bootstrap**
 - ✉️  You can contact me at [sarunya46mk@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sarunya46mk@gmail.com)
+
+- ## 🔗 Quick Links
+- [🖥️  See my portfolio ](https://my-portfolio-client-gadv.onrender.com)
+- [📁 Download My Resume](https://res.cloudinary.com/mnksarunya/image/upload/w_400/v1734168958/edzgm81kcc0xtyiy6qla.png)
   
 ## 🚀 Skills & Technologies
 
@@ -82,7 +86,5 @@ Welcome to my GitHub profile. I’m a passionate **Full Stack Developer**🎉
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SarunyaMnk)
 
 
-## 🔗 Quick Links
-- [🖥️  See my portfolio ](https://my-portfolio-client-gadv.onrender.com)
-- [📁 Download My Resume](https://res.cloudinary.com/mnksarunya/image/upload/w_400/v1734168958/edzgm81kcc0xtyiy6qla.png)
+
 
