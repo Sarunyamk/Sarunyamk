@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Welcome to my GitHub profile. I’m a passionate **Frontend Developer** And **Full Stack Developer**🎉
 
-- 🌱 Learning **Next.js** **Typescript** 
 - 💬 Ask me about **React**,**Javascript**, **Node.js**, or **TailwindCSS,Bootstrap**
 - ✉️  You can contact me at [sarunya46mk@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sarunya46mk@gmail.com)
 
