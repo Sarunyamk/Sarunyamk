@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Welcome to my GitHub profile. I’m a passionate **Frontend Developer** And **Full Stack Developer**🎉
 
-- 💬 Ask me about **React**,**Javascript**, **Node.js**, or **TailwindCSS,Bootstrap**
+- 💬 Ask me about **React**,**Javascript** ,**Typescript**, **Node.js**, or **TailwindCSS,Bootstrap**
 - ✉️  You can contact me at [sarunya46mk@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sarunya46mk@gmail.com)
 
 - ## 🔗 Quick Links
@@ -16,7 +16,7 @@ Welcome to my GitHub profile. I’m a passionate **Frontend Developer** And **Fu
 `JavaScript` `Typescript` `HTML` `CSS` `SQL`
 
 🛠️ **Frameworks & Libraries**  
-`React.js` `Vue.js` `Next.js` `Express.js` `Node.js` `TailwindCSS` `Bootstrap`
+`React.js` `Vue.js` `Next.js` `Express.js` `Node.js` `TailwindCSS` `Bootstrap` `Antdesign`
 
 **Database**
 `MySQL` `SQLite` `Prisma` `MongoDB` `PostgreSQL`
