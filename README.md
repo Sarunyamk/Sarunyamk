@@ -85,7 +85,7 @@ Welcome to my GitHub profile. I’m a passionate **Frontend Developer** And **Fu
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sarunyamk)
 
 
-
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Sarunyamk" frameborder="0"></iframe>
 
 
 
