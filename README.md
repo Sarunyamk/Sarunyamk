@@ -88,11 +88,5 @@ Welcome to my GitHub profile. I’m a passionate **Frontend Developer** And **Fu
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SarunyaMnk&theme=tokyonight&hide_border=true)
-
----
-
-## 🧠 Top Languages
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SarunyaMnk&layout=donut&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sarunyamk&theme=tokyonight&hide_border=true)
 
