@@ -82,7 +82,7 @@ Welcome to my GitHub profile. I’m a passionate **Frontend Developer** And **Fu
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarunyamk&show_icons=true&theme=tokyonight)  
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SarunyaMnk)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sarunyamk)
 
 
 
