@@ -76,6 +76,10 @@ Welcome to my GitHub profile. I’m a passionate **Frontend Developer** And **Fu
 | 🖥️ **Portfolio Website**          | My personal portfolio showcasing skills & projects .       | [Repository Client](https://github.com/Sarunyamk/My_Portfolio_client)  , [Repository Server](https://github.com/Sarunyamk/My_Portfolio_server)  |
 
 
+![Top Langs](https://github-readme-stats-rouge-seven-61.vercel.app/api/top-langs/?username=Sarunyamk&layout=compact&theme=tokyonight&hide_border=true)
+
+![WakaTime stats](https://github-readme-stats-rouge-seven-61.vercel.app/api/wakatime?username=Sarunyamk&theme=tokyonight&hide_border=true)
+
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sarunyamk&theme=tokyonight&hide_border=true)
@@ -85,7 +89,5 @@ Welcome to my GitHub profile. I’m a passionate **Frontend Developer** And **Fu
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarunyamk&theme=tokyo-night&hide_border=true)
 
-![Top Langs](https://github-readme-stats-rouge-seven-61.vercel.app/api/top-langs/?username=Sarunyamk&layout=compact&theme=tokyonight&hide_border=true)
 
-![WakaTime stats](https://github-readme-stats-rouge-seven-61.vercel.app/api/wakatime?username=Sarunyamk)
 
