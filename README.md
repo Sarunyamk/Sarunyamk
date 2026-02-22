@@ -78,7 +78,7 @@ Welcome to my GitHub profile. I’m a passionate **Frontend Developer** And **Fu
 ## 🌟 Contributions
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Sarunyamk)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarunyamk&layout=donut-vertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarunyamk&theme=tokyonight)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarunyamk&show_icons=true&theme=tokyonight)  
 
