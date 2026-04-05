@@ -7,7 +7,7 @@ Welcome to my GitHub profile. I’m a passionate **Frontend Developer** And **Fu
 - ✉️  You can contact me at [sarunya46mk@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sarunya46mk@gmail.com)
 
 - ## 🔗 Quick Links
-- [🖥️  See my portfolio ](https://portfolio-juzi.onrender.com)
+- [🖥️  See my portfolio ](https://portfolio.mm-morning.com)
 - [📁 Download My Resume](https://res.cloudinary.com/mnksarunya/image/upload/w_400/v1734168958/edzgm81kcc0xtyiy6qla.png)
 
 ## 🚀 Skills & Technologies
@@ -48,7 +48,7 @@ Welcome to my GitHub profile. I’m a passionate **Frontend Developer** And **Fu
 |---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|
 | 🛍️ **Single Project**       | A fully functional e-commerce food delivery app with cart & payment system using **React** & **Node.js**.  | [Repository Client](https://github.com/Sarunyamk/Single_Project_restaurant-client) ,[Repository Server](https://github.com/Sarunyamk/Single_Project_restaurant-server)|
 | 🛍️ **Group Project**             |  A fully functional for cats and dogs adoption platform with  **React** & **Node.js**.                            | [Repository Client](https://github.com/Sarunyamk/Friend_Pow_Client) , [Repository Server](https://github.com/Sarunyamk/Friend_Pow_Server)|
-| 🖥️ **Portfolio Website**          | My personal portfolio showcasing skills & projects .       | [Repository Client](https://github.com/Sarunyamk/My_Portfolio_client)  , [Repository Server](https://github.com/Sarunyamk/My_Portfolio_server)  |
+| 🖥️ **Portfolio Website**          | My personal portfolio showcasing skills & projects .       | [Repository Client](https://github.com/Sarunyamk/My_Portfolio_client)|
 
 ![Top Langs](https://github-readme-stats-rouge-seven-61.vercel.app/api/top-langs/?username=Sarunyamk&layout=donut&theme=jolly)
 
