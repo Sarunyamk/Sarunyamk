@@ -57,7 +57,7 @@ Welcome to my GitHub profile. I’m a passionate **Frontend Developer** And **Fu
 
 ## 🔥Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarunyamk&theme=shades-of-purple&show_icons=true&hide=issues)
+![GitHub stats](https://github-readme-stats-rouge-seven-61.vercel.app/api?username=Sarunyamk&theme=shades-of-purple&show_icons=true&hide=issues)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sarunyamk&theme=tokyonight&hide_border=true)
 
