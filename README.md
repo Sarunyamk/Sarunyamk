@@ -46,10 +46,10 @@ Welcome to my GitHub profile. I’m a passionate **Frontend Developer** And **Fu
 
 | Project Name                    | Description                                                                                  | Link                                   |
 |---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|
-| 🛍️ **My Learning Project** | An online learning platform where users can view tutorials and configurations without logging in. **Next / Typescript**  | [Repository](https://github.com/Sarunyamk/frontend-learning)|
+| 🛍️ **My Learning Project** | An online learning platform where users can view tutorials and configurations without logging in. **Next / Typescript** Deploy :(https://portfolio.mm-morning.com)  | [Repository](https://github.com/Sarunyamk/frontend-learning)|
 | 🛍️ **Single Project**       | A fully functional e-commerce food delivery app with cart & payment system using **React** & **Node.js**.  | [Repository Client](https://github.com/Sarunyamk/Single_Project_restaurant-client) ,[Repository Server](https://github.com/Sarunyamk/Single_Project_restaurant-server)|
 | 🛍️ **Group Project**             |  A fully functional for cats and dogs adoption platform with  **React** & **Node.js**.                            | [Repository Client](https://github.com/Sarunyamk/Friend_Pow_Client) , [Repository Server](https://github.com/Sarunyamk/Friend_Pow_Server)|
-| 🖥️ **Portfolio Website**          | My personal portfolio showcasing skills & projects .       | [Repository](https://github.com/Sarunyamk/portfolio-2026)|
+| 🖥️ **Portfolio Website**          | My personal portfolio showcasing skills & projects . Deploy :(https://portfolio.mm-morning.com)       | [Repository](https://github.com/Sarunyamk/portfolio-2026)|
 
 ![Top Langs](https://github-readme-stats-rouge-seven-61.vercel.app/api/top-langs/?username=Sarunyamk&layout=donut&theme=jolly)
 
