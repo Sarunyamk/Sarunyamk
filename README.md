@@ -50,7 +50,7 @@ Welcome to my GitHub profile. I’m a passionate **Frontend Developer** And **Fu
 | 🛍️ **Group Project**             |  A fully functional for cats and dogs adoption platform with  **React** & **Node.js**.                            | [Repository Client](https://github.com/Sarunyamk/Friend_Pow_Client) , [Repository Server](https://github.com/Sarunyamk/Friend_Pow_Server)|
 | 🖥️ **Portfolio Website**          | My personal portfolio showcasing skills & projects .       | [Repository Client](https://github.com/Sarunyamk/My_Portfolio_client)  , [Repository Server](https://github.com/Sarunyamk/My_Portfolio_server)  |
 
-[![Top Langs](https://github-readme-stats-rouge-seven-61.vercel.app/api/top-langs/?username=Sarunyamk&layout=donut&theme=jolly)]
+![Top Langs](https://github-readme-stats-rouge-seven-61.vercel.app/api/top-langs/?username=Sarunyamk&layout=donut&theme=jolly)
 
 ![WakaTime stats](https://github-readme-stats-rouge-seven-61.vercel.app/api/wakatime?username=Sarunyamk&theme=tokyonight&hide_border=true&langs_count=8&hide=json,yaml,text,bash,other,tsconfig,git+config,markdown)
 
