@@ -48,7 +48,7 @@ Welcome to my GitHub profile. I’m a passionate **Frontend Developer** And **Fu
 |---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|
 | 🛍️ **Single Project**       | A fully functional e-commerce food delivery app with cart & payment system using **React** & **Node.js**.  | [Repository Client](https://github.com/Sarunyamk/Single_Project_restaurant-client) ,[Repository Server](https://github.com/Sarunyamk/Single_Project_restaurant-server)|
 | 🛍️ **Group Project**             |  A fully functional for cats and dogs adoption platform with  **React** & **Node.js**.                            | [Repository Client](https://github.com/Sarunyamk/Friend_Pow_Client) , [Repository Server](https://github.com/Sarunyamk/Friend_Pow_Server)|
-| 🖥️ **Portfolio Website**          | My personal portfolio showcasing skills & projects .       | [Repository Client](https://github.com/Sarunyamk/My_Portfolio_client)|
+| 🖥️ **Portfolio Website**          | My personal portfolio showcasing skills & projects .       | [Repository](https://github.com/Sarunyamk/portfolio-2026)|
 
 ![Top Langs](https://github-readme-stats-rouge-seven-61.vercel.app/api/top-langs/?username=Sarunyamk&layout=donut&theme=jolly)
 
